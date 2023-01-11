@@ -1,4 +1,4 @@
-     local player = game.Players.RatatuiHelp
+     local player = game.Players.crexjake
      player.Chatted:connect(function(msg)
       if msg == "encontrado" then
       local A_1 = "yo soy"
